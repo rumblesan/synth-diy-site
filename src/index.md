@@ -6,11 +6,35 @@ layout: base.njk
 
 This site is just here to showcase/show off the synth DIY stuff I've been doing.
 
-## Builds
+## Design
+
+* CEM 3350 dual filter *TODO*
+
+## Serge 4U Panels
 
 * [CGS Bringer of Groove](./cgsbog)
 * [CGS Vintage Voltron 3](./cgsvv3)
 * [Edelweiss](./edelweiss)
+
+## 4U Modules
+
+* Music Thing Spring Reverb *TODO*
+* Serge R6 Gate *TODO*
+
+## Builds
+
+* CLee VC Mixer *TODO*
+
+## Utility
+
+* [Serge PSU](./serge-psu)
+
+## PCB Designs
+
+* Banana Breadboard Helpers *TODO*
+* Transistor Matcher *TODO*
+* Precision Attenuverter *TODO*
+* Simple four channel amp *TODO*
 
 ## Contact
 
