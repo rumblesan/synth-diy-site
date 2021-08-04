@@ -1,0 +1,14 @@
+{
+  "name": "synth-diy-site",
+  "version": "1.0.0",
+  "description": "A site to show my synth DIY stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guy John <guy@rumblesan.com>",
+  "license": "BSD-3-Clause",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}

@@ -1,0 +1,24 @@
+---
+layout: base.njk
+---
+
+<h1>CGS Bringer Of Groove</h1>
+
+The BOG was one of the first Serge panels I built, using the CGS PCBs bought from <a href="https://www.elby-designs.com">Elby Designs</a>.
+
+<img class="onpage" src="./images/cgs-bog-front.jpg" alt="BOG Front"/>
+
+<img class="onpage" src="./images/cgs-bog-internals-initial.jpg" alt="BOG Internals"/>
+
+Initially the power distribution was handled by a quick and dirty build on some strip board, but that's since been replaced with a dedicated distribution PCB.
+
+PCBs are supported on an aluminium frame I had laser cut. This is mounted on stand-offs held in place by small brackets behind some of the banana jacks. It's definitely not the best solution, and is a bit awkward, but it's functional for the moment.
+
+
+<img class="onpage" src="./images/cgs-bog-pcb-mounting.jpg" alt="BOG PCB Mounting"/>
+
+<h2>Modifications</h2>
+
+The BOG uses a pair of the <a href="https://www.elby-designs.com/webtek/cgs/cgs348/cgs348.htm">CGS348 VCOs</a> in the build, which have outputs for saw, pulse, sine, staircase and variable waves. Unfortunately the sine and variable waves are significantly lower volume that the pulse and saw. To improve this a little I built a small circuit with four non-inverting opamps that could be used to bring the signals up to a more useful level.
+
+<img class="onpage" width=70% src="./images/cgs-bog-vco-buffer.jpg" alt="BOG VCO buffer"/>
