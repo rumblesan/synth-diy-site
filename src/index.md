@@ -18,8 +18,8 @@ This site is just here to showcase/show off the synth DIY stuff I've been doing.
 
 ## 4U Modules
 
-* Music Thing Spring Reverb *TODO*
-* Serge R6 Gate *TODO*
+* [Spring Reverb](./4uspringreverb)
+* [Serge R6 Gate](./serge-r6gate)
 
 ## Builds
 
