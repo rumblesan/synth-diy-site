@@ -8,7 +8,7 @@ This site is just here to showcase/show off the synth DIY stuff I've been doing.
 
 ## Design
 
-* CEM 3350 dual filter *TODO*
+* [CEM 3350 dual filter](./cem3350-filter)
 
 ## Serge 4U Panels
 
