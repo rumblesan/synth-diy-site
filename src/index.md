@@ -31,7 +31,7 @@ This site is just here to showcase/show off the synth DIY stuff I've been doing.
 
 ## PCB Designs
 
-* Banana Breadboard Helpers *TODO*
+* [Banana Breadboard Helpers](./breadboard-helpers)
 * Transistor Matcher *TODO*
 * Precision Attenuverter *TODO*
 * Simple four channel amp *TODO*
