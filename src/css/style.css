@@ -48,14 +48,14 @@ section {
 /* Styling */
 
 body {
-  background-color: #002b36;
-  font-size: 16px;
+  background-color: #e6ebe0;
+  font-size: 18px;
   font-family: Tahoma, Geneva, sans-serif;
 }
 
 header {
   color: #839496;
-  background-color: #073642;
+  background-color: #02394a;
 }
 
 a {
@@ -100,7 +100,7 @@ nav .title {
 }
 
 section.content {
-  color: #839496;
+  color: #02394a;
   font-size: 18px;
   font-family: 'Lucida Console', Monaco, monospace;
 }
@@ -120,6 +120,18 @@ section.content h6 {
   background-color: #073642;
   color: #268bd2;
   margin: 10px;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.4rem;
+}
+
+h3 {
+  font-size: 1.1rem;
 }
 
 /* styling */
