@@ -141,3 +141,10 @@ img.onpage {
   margin: 20px auto;
   display: block;
 }
+
+img.tall {
+  height: 40%;
+  width: auto;
+  margin: 20px auto;
+  display: block;
+}
