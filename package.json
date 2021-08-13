@@ -4,7 +4,7 @@
   "description": "A site to show my synth DIY stuff",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "eleventy --serve"
   },
   "author": "Guy John <guy@rumblesan.com>",
   "license": "BSD-3-Clause",
